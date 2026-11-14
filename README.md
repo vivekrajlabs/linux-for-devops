@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@vivekrajlabs"><img alt="YouTube @vivekrajlabs" src="https://img.shields.io/badge/YouTube-@vivekrajlabs-red?logo=youtube&logoColor=white"></a>
   <a href="https://www.youtube.com/@vivekrajlabs?sub_confirmation=1"><img alt="Subscribe" src="https://img.shields.io/badge/Subscribe-free-11804a"></a>
-  <img alt="Languages" src="https://img.shields.io/badge/videos-English%20%2B%20हिंदी-111111">
+  <img alt="Languages" src="https://img.shields.io/badge/videos-English%20%2B%20Hindi-111111">
   <img alt="Ubuntu 24.04" src="https://img.shields.io/badge/tested%20on-Ubuntu%2024.04-E95420?logo=ubuntu&logoColor=white">
 </p>
 
@@ -16,10 +16,8 @@ Watch an episode, then come here and **do it yourself**: tasks, a challenge, int
 and a one-page cheat sheet for every episode.
 
 > Watching teaches you what a command is. Typing it teaches you Linux.
->
-> Video देखने से command समझ आती है, खुद type करने से Linux आता है।
 
-📺 **Videos:** [youtube.com/@vivekrajlabs](https://www.youtube.com/@vivekrajlabs) (every episode in English and हिंदी)
+📺 **Videos:** [youtube.com/@vivekrajlabs](https://www.youtube.com/@vivekrajlabs) (every episode in English and Hindi)
 
 ## Start here
 

@@ -1,6 +1,6 @@
 # Lab 01: What is Linux, and your first commands
 
-📺 Watch first: **Linux for DevOps #1** on [youtube.com/@vivekrajlabs](https://www.youtube.com/@vivekrajlabs) (English / हिंदी)
+📺 Watch first: **Linux for DevOps #1** on [youtube.com/@vivekrajlabs](https://www.youtube.com/@vivekrajlabs) (English / Hindi)
 
 **Time:** 15 minutes · **You need:** any Ubuntu terminal ([setup](../setup.md))
 
